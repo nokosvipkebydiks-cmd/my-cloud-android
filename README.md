@@ -1,0 +1,2 @@
+# my-cloud-android
+docker run -d -p 6080:6080 --privileged dorowu/ubuntu-desktop-lxde-vnc
